@@ -13,6 +13,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-echo "Hello, world!"
-echo "The time is $(date)."
 echo "The is image from devopsvj"
+echo "Hello, world!, I am DevOpsVJ"
+echo "The time is $(date)."
