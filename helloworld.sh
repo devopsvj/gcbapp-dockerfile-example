@@ -16,3 +16,4 @@
 echo "The is image from devopsvj"
 echo "Hello, world!, I am DevOpsVJ"
 echo "The time is $(date)."
+echo "The Image is from devopsvj"
